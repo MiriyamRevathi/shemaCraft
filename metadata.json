@@ -1,0 +1,6 @@
+{
+  "name": "SchemaCraft — Database Engineering Studio",
+  "description": "Browser-based interactive database engineering studio, visual ER diagram designer, local SQLite SQL query workbench, query plan visualizer, normalization lab, and transaction/storage simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
